@@ -13,3 +13,4 @@ Simulate a database of 26 members in a military unit.
     - Ship/station
     - Promotion status
     - Date reported
+    - Period rotation date
