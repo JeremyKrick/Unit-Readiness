@@ -2,7 +2,7 @@
 Simulate a database of 26 members in a military unit.
 ## Task List
 - [ ] Create MongoDB
-  - Each member will have the following information:
+  - Individual information:
     - Name (Last, First MI)
     - Pay grade
     - Rate
